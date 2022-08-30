@@ -2,7 +2,7 @@ ipython==8.4.0
 jupyter==1.0.0
 matplotlib==3.5.2
 notebook==6.4.12
-numpy==1.21.5
+numpy==1.22.0
 pandas==1.4.3
 python==3.9.12
 scikit-learn==1.1.1
