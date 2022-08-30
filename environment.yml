@@ -1,0 +1,25 @@
+name: pytorch-euroscipy
+channels:
+  - defaults
+dependencies:
+  - ipykernel=6.9.1
+  - ipython=8.4.0
+  - jupyter=1.0.0
+  - matplotlib=3.5.2
+  - nomkl=3.0
+  - notebook=6.4.12
+  - numpy=1.21.5
+  - pandas=1.4.3
+  - python=3.9.12
+  - scikit-learn=1.1.1
+  - scipy=1.7.3
+  - setuptools=63.4.1
+  - tensorboard=2.6.0
+  - tensorboard-data-server=0.6.0
+  - tensorboard-plugin-wit=1.6.0
+  - pip:
+      - charset-normalizer==2.1.1
+      - notexbook-theme==2.0.1
+      - pillow==9.2.0
+      - torch==1.12.1
+      - torchvision==0.13.1
