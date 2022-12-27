@@ -7,7 +7,7 @@ pandas==1.4.3
 python==3.9.12
 scikit-learn==1.1.1
 scipy==1.7.3
-setuptools==63.4.1
+setuptools==65.5.1
 tensorboard==2.6.0
 tensorboard-data-server==0.6.0
 tensorboard-plugin-wit==1.6.0
